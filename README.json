@@ -1,0 +1,37 @@
+{
+  "Playstore": {
+    "AdsController": {
+      "NetworkAds": "admob",
+      "BannerAdmob": "ca-app-pub-1788331336113040/6708944179",
+      "InterstitialAdmob": "ca-app-pub-1788331004413040/5358027446",
+      "NativeAdmob": "ca-app-pub-8898832152203097/9993310409",
+      "BannerFacebook": "329569775980917_329570609314167",
+      "InterstitialFacebook": "329569775980917_329571342647427",
+      "unityGameID": "4756905",
+      "UnityPlacement": "inter_yellow",
+      "StartappAds": "204389156",
+      "Cpa": true,
+      "ImageUrl": "https://i.postimg.cc/JzD0yVbn/photo.png",
+      "LinkCpa1": "https://grptrk.com/show.php?l=0&u=556135&id=36877&tracking_id=",
+      "LinkCpa2": "https://grptrk.com/show.php?l=0&u=556135&id=39551&tracking_id=",
+      "watchNow": true,
+      "Rating": true
+    }
+  },
+  "Huaweistore": {
+    "AdsController": {
+      "NetworkAds": "admob",
+      "BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
+      "InterstitialAdmob": "ca-app-pub-5574668414249083/3012378783",
+      "BannerFacebook": "540714697630892_540715290964166",
+      "InterstitialFacebook": "540714697630892_540715290964166",
+      "StartappAds": "203290733",
+      "Cpa": true,
+      "ImageUrl": "https://media4.giphy.com/media/COYGe9rZvfiaQ/giphy.gif",
+      "LinkCpa1": "https://cpbldi.com/911232e",
+      "LinkCpa2": "https://google.com/",
+      "watchNow": false,
+      "Rating": false
+    }
+  }
+}
