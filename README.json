@@ -26,7 +26,7 @@
     "img": "https://i.postimg.cc/vmFjKprL/cpa-image.jpg",
     "link": "https://grptrk.com/show.php?l=0&u=556135&id=36877&tracking_id="
   },
-  "unityTestMode": true,
+  "unityTestMode": false,
   "unityID": "4756905",
   "unity": {
     "Banner": "banner_yellow",
