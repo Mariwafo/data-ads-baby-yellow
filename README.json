@@ -29,8 +29,8 @@
   "unityTestMode": false,
   "unityID": "4773154",
   "unity": {
-    "Banner": "banner_kkkk",
-    "Inter": "inter_kk"
+    "Banner": "Banner_Android",
+    "Inter": "Interstitial_Android"
   },
   "yandex": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
